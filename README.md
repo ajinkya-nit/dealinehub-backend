@@ -1,3 +1,6 @@
+##FRONTEND LINK
+[https://github.com/ajinkya-nit/deadline-hub-frontend](https://github.com/ajinkya-nit/deadline-hub-frontend)
+
 # NITJ Deadline Management System - Backend
 
 A robust Node.js and Express.js backend API for the NITJ Deadline Management System. Manages academic deadlines, campus events, and user authentication with MongoDB as the database.
